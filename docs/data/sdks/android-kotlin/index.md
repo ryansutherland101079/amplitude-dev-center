@@ -575,7 +575,7 @@ You can adjust the time window for which sessions are extended. The default sess
     Amplitude amplitude = new Amplitude(configuration);
     ```
 
-By default, Amplitude sends the '[Amplitude] Start Session' and '[Amplitude] End Session' events. The sessions are tracked by using `session_id`.
+By default, Amplitude sends the '[Amplitude] Start Session' and '[Amplitude] End Session' events. Amplitude tracks these sessions with`session_id`.
 
 You can also disable those session events. 
 
