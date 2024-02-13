@@ -5,7 +5,7 @@ description: Send Amplitude data to other tools in your stack with just a few cl
 
 Event Streaming lets you share your Amplitude data throughout your entire system. Use the valuable behavioral data in Amplitude to enhance customer profiles and send data to your marketing, sales, and infrastructure tools.
 
-With event streaming, you gain access to user-friendly, configuration-based tools that offer precise control over the data you transmit. You can filter data by user, group, and event properties, ensuring that only the relevant information is delivered to your downstream tools. Additionally, you can monitor key metrics such as event volume, latency, and detailed delivery status to assess the performance and reliability of your streaming integration.
+With event streaming, you gain access to user-friendly, configuration-based tools that offer precise control over the data you send. Filter data by user, group, and event properties, ensuring that you send only the relevant information to your downstream tools. Additionally, you can monitor key metrics like event volume, latency, and detailed delivery status to assess the performance and reliability of your streaming integration.
 
 ## Considerations
 
